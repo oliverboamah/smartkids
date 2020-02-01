@@ -2,29 +2,26 @@
 An Interactive 3D game to aid kids in learning English, Mathematics and Science.
  
 ## Screenshots
-Login Page            |  Admin Dashboard
+Choose Gender            |  Enter name
 :-------------------------:|:-------------------------:
-![Login Page](https://github.com/codingoliver/aim-ms/blob/master/screenshots/login%20page.JPG) | ![Admin Dashboard](https://github.com/codingoliver/aim-ms/blob/master/screenshots/dashboard.JPG) 
+![Choose Gender](https://github.com/codingoliver/smartkids/blob/master/Screenshots/choose_gender.png) | ![Enter name](https://github.com/codingoliver/smartkids/blob/master/Screenshots/enter_name.png) 
 
-Staff Page            |  Add Staff
+Select Category            |  Levels
 :-------------------------:|:-------------------------:
-![Staff Page](https://github.com/codingoliver/aim-ms/blob/master/screenshots/staff%20page.JPG) | ![Add Staff](https://github.com/codingoliver/aim-ms/blob/master/screenshots/add%20staff.JPG) 
+![Select Category](https://github.com/codingoliver/smartkids/blob/master/Screenshots/select_category.png) | ![Levels](https://github.com/codingoliver/smartkids/blob/master/Screenshots/levels.png) 
 
-Accounts Section            |  Transport Activities List
+Science Question            |  Science Question 
 :-------------------------:|:-------------------------:
-![Accounts Section](https://github.com/codingoliver/aim-ms/blob/master/screenshots/accounting.JPG) | ![Transport Activities List](https://github.com/codingoliver/aim-ms/blob/master/screenshots/transport.JPG) 
+![Science Question](https://github.com/codingoliver/smartkids/blob/master/Screenshots/quetion1.png) | ![Science Question](https://github.com/codingoliver/smartkids/blob/master/Screenshots/question2.png) 
 
-Forestry Activities List           |  Sawmills List
+English Spelling Quesion Hint           |  English Spelling Question
 :-------------------------:|:-------------------------:
-![Forestry Activities List](https://github.com/codingoliver/aim-ms/blob/master/screenshots/forestry%20activity.JPG) | ![Sawmills List](https://github.com/codingoliver/aim-ms/blob/master/screenshots/sawmills.JPG) 
+![English Spelling Quesion Hint](https://github.com/codingoliver/smartkids/blob/master/Screenshots/question3.png) | ![English Spelling Question](https://github.com/codingoliver/smartkids/blob/master/Screenshots/question4.png) 
 
-Logs List             |  Logs Prices
+Math Question            |  Quit Game
 :-------------------------:|:-------------------------:
-![Logs List](https://github.com/codingoliver/aim-ms/blob/master/screenshots/logs.JPG) | ![Logs Prices](https://github.com/codingoliver/aim-ms/blob/master/screenshots/log%20prices.JPG) 
+![Math Question](https://github.com/codingoliver/smartkids/blob/master/Screenshots/question5.png) | ![Quit Game](https://github.com/codingoliver/smartkids/blob/master/Screenshots/quit.png) 
 
-Add Buyer            |  FAQs Page
-:-------------------------:|:-------------------------:
-![Add Buyer](https://github.com/codingoliver/aim-ms/blob/master/screenshots/buyers.JPG) | ![FAQs Page](https://github.com/codingoliver/aim-ms/blob/master/screenshots/faq.JPG) 
 
 ## Features
 * Interactive 3D game for easy learning.
@@ -33,7 +30,7 @@ Add Buyer            |  FAQs Page
 * Provide user with help option in case of any difficulties during gameplay
 * Persist user's state
 * Evaluate user's response and give valuable feedback
-* Playback audio for better user interaction
+* Playback audio for better user experience
 
 ## Technologies
 * Microsoft Visual C#
