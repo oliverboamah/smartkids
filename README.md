@@ -1,4 +1,4 @@
-# smartkids
+# SmartKids
 An Interactive 3D game to aid kids in learning English, Mathematics and Science.
 
 # Video Demo
