@@ -4,6 +4,10 @@ An Interactive 3D game to aid kids in learning English, Mathematics and Science.
 # Video Demo
 * Demo link 1: https://drive.google.com/open?id=1HXFJO3i4LxPe9FH31ewwTVj8I9xgOuA2
 * Demo link 2: https://drive.google.com/open?id=1bDaMcneEnPbpxzuDVkuUkEhSipg5RKz8
+
+# Project Document
+* Project Document Link: (https://github.com/codingoliver/smartkids/blob/master/Doc/project_doc.pdf
+
  
 ## Screenshots
 Choose Gender            |  Enter name
