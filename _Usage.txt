@@ -1,0 +1,11 @@
+Adobe Photoshop:- Raster graphics and image editing software developed and manufactured by Adobe Systems Inc; Used in creating the textures for characters / models, creating button images, UI panels.
+
+Microsoft paint: - Simple raster graphics editor that has been included with all versions of Microsoft Windows; used in editing of the UI elements
+
+Blender 3D:- Open source 3D creation suite; Used in creating the 3d virtual Keyboard for user input and the 3d Female character guiding the user
+
+Nextup Text to Speech: - Text-To-Speech (TTS) program; Used to create all spoken audio used during gameplay
+
+Unity 3D:- Cross-platform game engine developed by Unity Technologies; Used to Integrates all game elements / assets, assembling those assets (lighting, audio, physics and animation, interactivity, and gameplay logic) into scenes and environments; and edit, debug and optimize the content for the target platforms.
+
+Microsoft Visual C# Express:- Programming environment from Microsoft; Used define the logic of game components such as storing / retrieving players data, cash flow logic, level implementation, control UI movement, the character animations.

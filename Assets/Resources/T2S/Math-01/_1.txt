@@ -1,0 +1,10 @@
+a=8 - 6
+c=5 ÷ 1
+b=2+2
+d=5 x 4
+c=0 + 0
+B=Water
+D=Biology
+D=ThirdPlanet
+A=FastAnimal
+B=Lungs

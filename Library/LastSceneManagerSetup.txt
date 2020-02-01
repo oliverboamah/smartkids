@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Scenes/00.Initialize_[720_X_1280].unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/01.BeginScene_[1280_X_720].unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/02.PlayerDetails_[1280_X_720].unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/03.MainGame_[1280_X_720].unity
+  isLoaded: 0
+  isActive: 0
