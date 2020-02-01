@@ -2,8 +2,8 @@
 An Interactive 3D game to aid kids in learning English, Mathematics and Science.
 
 # Video Demo
-(https://drive.google.com/open?id=1HXFJO3i4LxPe9FH31ewwTVj8I9xgOuA2)
-(https://drive.google.com/open?id=1bDaMcneEnPbpxzuDVkuUkEhSipg5RKz8)
+* Demo link 1: https://drive.google.com/open?id=1HXFJO3i4LxPe9FH31ewwTVj8I9xgOuA2
+* Demo link 2: https://drive.google.com/open?id=1bDaMcneEnPbpxzuDVkuUkEhSipg5RKz8
  
 ## Screenshots
 Choose Gender            |  Enter name
