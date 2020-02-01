@@ -6,7 +6,7 @@ An Interactive 3D game to aid kids in learning English, Mathematics and Science.
 * Demo link 2: https://drive.google.com/open?id=1bDaMcneEnPbpxzuDVkuUkEhSipg5RKz8
 
 # Project Document
-* Project Document Link: (https://github.com/codingoliver/smartkids/blob/master/Doc/project_doc.pdf
+* Project document link: https://github.com/codingoliver/smartkids/blob/master/Doc/project_doc.pdf
 
  
 ## Screenshots
